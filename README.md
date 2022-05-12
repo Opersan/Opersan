@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **furkankirazmp@gmail.com**
 
-- ⚡ Fun fact **I think I have a big gluteus :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
