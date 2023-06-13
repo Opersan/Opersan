@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Kiraz</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Web Sudoku Solver Game](https://github.com/Opersan/sudokuWebGame)
+- 🔭 I’m currently working on [Web Sudoku Solver Game](https://github.com/Opersan/messengerApp)
 
 - 🌱 I’m currently learning **Spring Cloud**
 
