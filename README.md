@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Furkan Kiraz</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Lightweight Messenger App](https://github.com/Opersan/messengerApp)
+- 🔭 I’m currently working on [React-Spring Boot API Messenger App](https://github.com/Opersan/messengerApp)
+
+- 🔭 I'am also trying to solve [454 most popular algorithm questions](https://leetcode.com/problem-list/top-interview-questions/) on [Leetcode - My Java Journey](https://github.com/Opersan/messengerApp) with the lowest time and space complexity.
 
 - 🌱 I’m currently learning **Spring Cloud**
 
