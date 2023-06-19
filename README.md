@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [React-Spring Boot API Messenger App](https://github.com/Opersan/messengerApp)
 
-- 🔭 I'am also trying to solve [454 most popular algorithm questions](https://leetcode.com/problem-list/top-interview-questions/) on repository [Leetcode - My Java Journey]([https://github.com/Opersan/messengerApp](https://github.com/Opersan/my-java-journey)) with the lowest time and space complexity.
+- 🔭 I'am also trying to solve [454 most popular algorithm questions](https://leetcode.com/problem-list/top-interview-questions/) on repository [Leetcode - My Java Journey](https://github.com/Opersan/my-java-journey) with the lowest time and space complexity.
 
 - 🌱 I’m currently learning **Spring Cloud**
 
